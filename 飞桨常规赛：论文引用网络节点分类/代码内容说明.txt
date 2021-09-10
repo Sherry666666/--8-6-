@@ -1,0 +1,7 @@
+1、最优模型训练
+在命令窗口中执行：python work/make_model.py --model_name GCN --num_layers 2 --epoch 500
+2、模型预测生成提交文本
+在命令窗口中执行：!python work/predict.py --model_name GCN --num_layers 2 --epoch 500
+
+AI Studio项目地址：https://aistudio.baidu.com/aistudio/projectdetail/2263227?contributionType=1
+
